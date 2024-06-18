@@ -25,14 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sha Newaz Mahmud",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "MERN Stack Developer",
+  email: "shanewazmahmud328@gmail.com",
+  gitHub: "https://github.com/SM-Shaan",
+  linkedIn: "www.linkedin.com/in/shanewaz-mahmud-78388b247",
+  codeforces: "https://codeforces.com/profile/_Bosonto_",
+  leetcode: "https://leetcode.com/u/user8813Ji/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
 };
 
 const primaryColor = "#4E567E";
